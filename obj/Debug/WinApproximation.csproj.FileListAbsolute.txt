@@ -1,0 +1,9 @@
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.csproj.AssemblyReference.cache
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.MainForm.resources
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.Properties.Resources.resources
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.csproj.GenerateResource.cache
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.csproj.CoreCompileInputs.cache
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\bin\Debug\WinApproximation.exe
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\bin\Debug\WinApproximation.pdb
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.exe
+C:\Users\ebysh\Downloads\102200033_exe\WinApproximation\obj\Debug\WinApproximation.pdb
